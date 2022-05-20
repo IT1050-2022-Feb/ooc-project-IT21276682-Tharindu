@@ -9,9 +9,7 @@ class Admin : public Employee
 protected:
 	char Admin_Division[50];
 	int Admin_ID;
-	int contactNo;
-
-	
+	int contactNo;	
 
 public:
 	Admin(const char Employee_User_Name[], int EmployeeID, const char AdminDivision[], int AdminID, const char Employee_Address[], int Employee_contactNo, const char Employee_email[]);
