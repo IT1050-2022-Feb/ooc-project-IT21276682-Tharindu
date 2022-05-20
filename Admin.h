@@ -1,3 +1,8 @@
+//IT21276682
+//R.M.T.B.Rathnayake
+//MLB_05.01_12
+//Vehicle Rental System
+
 #include "Employee.h"
 class Admin : public Employee
 {
